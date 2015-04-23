@@ -1,0 +1,10 @@
+{
+  "name": "mazhekin-my-pace",
+  "version": "1.0.0",
+  "authors": [
+    "Vasiliy Mazhekin <mazhekin@gmail.com>"
+  ],
+  "description": "The custom library that is taken from template COCO",
+  "main": "['pace.css' , 'pace.js']",
+  "license": "MIT"
+}
